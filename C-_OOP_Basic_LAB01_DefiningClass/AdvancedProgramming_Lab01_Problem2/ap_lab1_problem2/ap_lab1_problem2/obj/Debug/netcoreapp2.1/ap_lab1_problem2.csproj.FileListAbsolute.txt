@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\bin\Debug\netcoreapp2.1\ap_lab1_problem2.deps.json
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\bin\Debug\netcoreapp2.1\ap_lab1_problem2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\bin\Debug\netcoreapp2.1\ap_lab1_problem2.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\bin\Debug\netcoreapp2.1\ap_lab1_problem2.dll
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\bin\Debug\netcoreapp2.1\ap_lab1_problem2.pdb
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.dll
+C:\Users\ADMIN\source\repos\ap_lab1_problem2\ap_lab1_problem2\obj\Debug\netcoreapp2.1\ap_lab1_problem2.pdb

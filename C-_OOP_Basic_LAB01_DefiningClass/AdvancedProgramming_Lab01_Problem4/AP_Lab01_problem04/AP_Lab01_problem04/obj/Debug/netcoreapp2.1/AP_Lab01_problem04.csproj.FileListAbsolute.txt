@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\bin\Debug\netcoreapp2.1\AP_Lab01_problem04.deps.json
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\bin\Debug\netcoreapp2.1\AP_Lab01_problem04.runtimeconfig.json
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\bin\Debug\netcoreapp2.1\AP_Lab01_problem04.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\bin\Debug\netcoreapp2.1\AP_Lab01_problem04.dll
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\bin\Debug\netcoreapp2.1\AP_Lab01_problem04.pdb
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.dll
+C:\Users\ADMIN\source\repos\AP_Lab01_problem04\AP_Lab01_problem04\obj\Debug\netcoreapp2.1\AP_Lab01_problem04.pdb

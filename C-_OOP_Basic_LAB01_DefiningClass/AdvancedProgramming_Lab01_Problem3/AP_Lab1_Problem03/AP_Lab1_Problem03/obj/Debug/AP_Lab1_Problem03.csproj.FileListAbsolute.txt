@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\bin\Debug\AP_Lab1_Problem03.exe.config
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\bin\Debug\AP_Lab1_Problem03.exe
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\bin\Debug\AP_Lab1_Problem03.pdb
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\obj\Debug\AP_Lab1_Problem03.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\obj\Debug\AP_Lab1_Problem03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\obj\Debug\AP_Lab1_Problem03.exe
+C:\Users\ADMIN\source\repos\manhquynh14\C-_OOP_Basic_LAB01_DefiningClass\AdvancedProgramming_Lab01_Problem3\AP_Lab1_Problem03\AP_Lab1_Problem03\obj\Debug\AP_Lab1_Problem03.pdb

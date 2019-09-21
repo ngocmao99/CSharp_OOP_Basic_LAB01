@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.deps.json
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.dll
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.pdb
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.dll
+C:\Users\ADMIN\source\repos\SingleInheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.pdb

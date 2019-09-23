@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\HierarchicalInheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
       "projectName": "HierarchicalInheritance",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\HierarchicalInheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\HierarchicalInheritance\\HierarchicalInheritance\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\MultipleInheritance\\MultipleInheritance\\MultipleInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\MultipleInheritance\\MultipleInheritance\\MultipleInheritance.csproj",
       "projectName": "MultipleInheritance",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\MultipleInheritance\\MultipleInheritance\\MultipleInheritance.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\MultipleInheritance\\MultipleInheritance\\MultipleInheritance.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\MultipleInheritance\\MultipleInheritance\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\MultipleInheritance\\MultipleInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

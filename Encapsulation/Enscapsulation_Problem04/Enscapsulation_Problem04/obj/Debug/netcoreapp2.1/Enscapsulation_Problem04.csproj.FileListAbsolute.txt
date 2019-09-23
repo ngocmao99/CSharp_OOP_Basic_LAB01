@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\bin\Debug\netcoreapp2.1\Enscapsulation_Problem04.deps.json
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\bin\Debug\netcoreapp2.1\Enscapsulation_Problem04.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\bin\Debug\netcoreapp2.1\Enscapsulation_Problem04.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\bin\Debug\netcoreapp2.1\Enscapsulation_Problem04.dll
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\bin\Debug\netcoreapp2.1\Enscapsulation_Problem04.pdb
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.dll
+C:\Users\ADMIN\source\repos\Enscapsulation_Problem04\Enscapsulation_Problem04\obj\Debug\netcoreapp2.1\Enscapsulation_Problem04.pdb

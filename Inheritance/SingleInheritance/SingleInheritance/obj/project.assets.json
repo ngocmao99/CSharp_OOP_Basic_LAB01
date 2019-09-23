@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\SingleInheritance\\SingleInheritance\\SingleInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\SingleInheritance\\SingleInheritance\\SingleInheritance.csproj",
       "projectName": "SingleInheritance",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\SingleInheritance\\SingleInheritance\\SingleInheritance.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\SingleInheritance\\SingleInheritance\\SingleInheritance.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\SingleInheritance\\SingleInheritance\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\SingleInheritance\\SingleInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

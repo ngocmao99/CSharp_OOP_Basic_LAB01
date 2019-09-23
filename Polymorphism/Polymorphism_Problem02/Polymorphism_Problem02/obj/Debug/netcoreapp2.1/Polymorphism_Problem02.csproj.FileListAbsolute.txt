@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\bin\Debug\netcoreapp2.1\Polymorphism_Problem02.deps.json
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\bin\Debug\netcoreapp2.1\Polymorphism_Problem02.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\bin\Debug\netcoreapp2.1\Polymorphism_Problem02.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\bin\Debug\netcoreapp2.1\Polymorphism_Problem02.dll
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\bin\Debug\netcoreapp2.1\Polymorphism_Problem02.pdb
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.dll
+C:\Users\ADMIN\source\repos\Polymorphism_Problem02\Polymorphism_Problem02\obj\Debug\netcoreapp2.1\Polymorphism_Problem02.pdb

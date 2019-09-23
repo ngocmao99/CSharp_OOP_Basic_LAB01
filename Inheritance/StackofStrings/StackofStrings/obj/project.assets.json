@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\StackofStrings\\StackofStrings\\StackofStrings.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\StackofStrings\\StackofStrings\\StackofStrings.csproj",
       "projectName": "StackofStrings",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\StackofStrings\\StackofStrings\\StackofStrings.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\StackofStrings\\StackofStrings\\StackofStrings.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\StackofStrings\\StackofStrings\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\StackofStrings\\StackofStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

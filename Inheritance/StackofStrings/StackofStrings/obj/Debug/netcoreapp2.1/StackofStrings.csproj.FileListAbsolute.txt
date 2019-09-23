@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\bin\Debug\netcoreapp2.1\StackofStrings.deps.json
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\bin\Debug\netcoreapp2.1\StackofStrings.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\bin\Debug\netcoreapp2.1\StackofStrings.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\bin\Debug\netcoreapp2.1\StackofStrings.dll
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\bin\Debug\netcoreapp2.1\StackofStrings.pdb
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\obj\Debug\netcoreapp2.1\StackofStrings.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\obj\Debug\netcoreapp2.1\StackofStrings.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\obj\Debug\netcoreapp2.1\StackofStrings.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\obj\Debug\netcoreapp2.1\StackofStrings.dll
+C:\Users\ADMIN\source\repos\Inheritance\StackofStrings\StackofStrings\obj\Debug\netcoreapp2.1\StackofStrings.pdb

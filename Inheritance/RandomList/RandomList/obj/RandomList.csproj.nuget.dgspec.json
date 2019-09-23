@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\RandomList\\RandomList\\RandomList.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\RandomList\\RandomList\\RandomList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\RandomList\\RandomList\\RandomList.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\RandomList\\RandomList\\RandomList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\RandomList\\RandomList\\RandomList.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\RandomList\\RandomList\\RandomList.csproj",
         "projectName": "RandomList",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\RandomList\\RandomList\\RandomList.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\RandomList\\RandomList\\RandomList.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\RandomList\\RandomList\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Inheritance\\RandomList\\RandomList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
